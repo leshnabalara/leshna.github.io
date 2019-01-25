@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- reset css-->
+        <link rel="stylesheet" type="text/css" href="https://meyerweb.com/eric/tools/css/reset/reset.css">    
+        <link rel="stylesheet" type="text/css" href="./page1.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>assingment1</title>
+        
+    </head>
+
+    <body >
+        
+        
+            <nav>
+                <span class="nav"><a href="./border.png">Home</a></span>
+                <span class="nav"><a href="./aboutme.html">About Me</a></span>
+                <span class="nav"><a href="./border.png">Contact</a></span>
+                <span class="nav"><a href="./border.png">Work</a></span>
+            </nav>
+
+            <main>
+                <div class="center">
+                    <img class="main-image" src="./border.png">
+                    <span class="greeting">Hi! I'm</span>
+                    <span class="name">Leshna Balara</span>
+                </div>
+            </main>
+            
+       
+             
+    </body>
+
+
+</html>
